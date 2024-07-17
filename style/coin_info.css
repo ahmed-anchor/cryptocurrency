@@ -1,0 +1,26 @@
+
+
+
+.navbar-brand,.logo-brand {
+    width: 200px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+tr {
+    text-align: center;
+}
+
+th,td {
+    height: 60px;
+    align-content: center;
+}
+
+
+.rounded {
+    width: 20%;
+    height: 20%;
+}
